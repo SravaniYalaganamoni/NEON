@@ -5,7 +5,6 @@ This repo contains my SQL queries against the **Product DB** using Neon (Postgre
 ## Files
 - `product_db_queries.ipynb` — Main Colab notebook (3 original queries + peer review section).
 - `requirements.txt` — Python package requirements.
-- `classmates_review.md` — Notes/comments on 3 classmates' queries.
 
 ## Queries Included
 1. **Top-3 Most Expensive per Category**
